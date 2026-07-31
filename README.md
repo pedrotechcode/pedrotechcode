@@ -4,14 +4,6 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" href="https://youtube.com/@tiopoetatech?si=ulwDuoMGBTMdXaV_" target="_blank" rel="noopener noreferrer />
-    
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Welcome! 👋</h1>
 
 ###
